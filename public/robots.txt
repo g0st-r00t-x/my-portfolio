@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g0st.my.id/sitemap.xml
+Host: https://g0st.my.id
