@@ -1,5 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
-Sitemap: https://g0st.my.id/sitemap.xml
+# Host
 Host: https://g0st.my.id
+
+# Sitemaps
+Sitemap: https://g0st.my.id/sitemap.xml

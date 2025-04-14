@@ -1,0 +1,13 @@
+# Folder & file yang tidak perlu ikut ke dalam Docker image
+node_modules
+.next
+.git
+bun.lockb
+*.log
+.env.*
+.DS_Store
+*.md
+*.test.js
+*.spec.js
+__tests__/
+coverage/
